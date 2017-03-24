@@ -3,7 +3,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 
-import App from './Auth'
+// import App from './Auth'
+import App from './Coin'
 
 const render = AppComponent =>
   ReactDOM.render( // eslint-disable-line react/no-render-return-value
